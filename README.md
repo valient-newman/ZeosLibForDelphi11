@@ -15,7 +15,7 @@ Prepared by Valient Newman
 
 My Github Repository <https://github.com/valient-newman>
 
-This addition based on Zeos 7.2.14 Release gives the support for Embarcadero Delphi 12 to ZeosLib, changed the LibSuffix from 280 to 290 for Delphi 12.
+This addition based on Zeos 7.2.14 Release gives the support for Embarcadero Delphi 11 to ZeosLib, changed the LibSuffix from 270 to 280 for Delphi 11.
 
 ## What is to be done?
 
